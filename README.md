@@ -2,8 +2,6 @@
 
 ## Welcome to Behind The Science! 🚀⚛️🛡️
 
-You've successfully downloaded a complete science blogging website focused on India's Space, Nuclear, and Defence programs. This is a fully functional, professional website ready to run on your local computer.
-
 ## What's Included
 
 **My blog features:**
@@ -35,7 +33,6 @@ my-blog/
 └── README.md           # This file
 ```
 
-## 🚀 How to Run Your Blog Locally
 
 
 ---
